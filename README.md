@@ -67,5 +67,4 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aradhya-7-7/aradhya-7-7/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
