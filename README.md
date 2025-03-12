@@ -56,15 +56,17 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-7-7&theme=tokyonight" alt="streak"/>
   
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aradhya-7-7&theme=tokyonight" alt="GitHub Streak Stats"/>
+
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=aradhya-7-7&theme=darkhub&no-frame=true&column=7)
-  
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aradhya-7-7&theme=darkhub&no-frame=true&column=7)
+
 </div>
 
-<div align="center">
-</div>
