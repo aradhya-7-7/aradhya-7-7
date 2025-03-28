@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=aradhya-7-7&color=58a6ff&style=flat-square)
+  
   [![GitHub followers](https://img.shields.io/github/followers/aradhya-7-7?style=social)](https://github.com/aradhya-7-7)
   
 </div>
