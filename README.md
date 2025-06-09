@@ -1,7 +1,8 @@
 <!-- BANNER: Animated SVG Typing Effect -->
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Aradhya+Srivastava!;🚀+Fullstack+Web+Developer;💻+MERN+Stack+Enthusiast;🎨+Lover+of+Creative+Web+Design" alt="Welcome Typing Animation" />
-</div>
+</p>
+
 
 <!-- MOTTO with gradient SVG background -->
 <p align="center">
